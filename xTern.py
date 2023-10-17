@@ -56,7 +56,7 @@ import requests
 import pandas as pd
 import time
 
-API_KEY = 'AIzaSyDgUEizruo-PT_Sgr8JNrmOuVS0SrG8kJs'
+API_KEY = ''
 URL = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?"
 # Indianapolis city center coordinates
 INDIANAPOLIS_COORDINATES = '39.7684,-86.1581'
